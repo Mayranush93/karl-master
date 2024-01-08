@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "Long Yellow Dress",
+    "name": "Jeans midi cocktail dress",
+    "price": 39.99,
+    "count": 10,
+    "rating": 4.5,
+    "size": [
+      32,
+      34,
+      36,
+      38,
+      40,
+      42
+    ],
+    "images": "/img/product-img/product-1.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pharetra tempor so dales. Phasellus sagittis auctor gravida. Integ er bibendum sodales arcu id te mpus. Ut consectetur lacus.\n\nApprox length 66cm/26\" (Based on a UK size 8 sample) Mixed fibres\n\nThe Model wears a UK size 8/ EU size 36/ US size 4 and her height is 5'8\""
+  },
+  {
+    "id": 2,
+    "title": "Long Yellow Dress",
+    "name": "Jeans midi cocktail dress",
+    "price": 39.99,
+    "count": 10,
+    "rating": 4.5,
+    "size": [
+      32,
+      34,
+      36,
+      38,
+      40,
+      42
+    ],
+    "color": [
+  {
+    "id": 1,
+    "color": "gray",
+    "count": 3
+  },
+  {
+    "id": 2,
+    "color": "red",
+    "count": 25
+  },
+  {
+    "id": 3,
+    "color": "yellow",
+    "count": 112
+  },
+  {
+    "id": 4,
+    "color": "green",
+    "count": 72
+  },
+  {
+    "id": 5,
+    "color": "teal",
+    "count": 9
+  },
+  {
+    "id": 6,
+    "color": "cyan",
+    "count": 29
+  }
+],
+    "images": "/img/product-img/product-2.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pharetra tempor so dales. Phasellus sagittis auctor gravida. Integ er bibendum sodales arcu id te mpus. Ut consectetur lacus.\n\nApprox length 66cm/26\" (Based on a UK size 8 sample) Mixed fibres\n\nThe Model wears a UK size 8/ EU size 36/ US size 4 and her height is 5'8\""
+  },
+  {
+    "id": 3,
+    "title": "Long Yellow Dress",
+    "name": "Jeans midi cocktail dress",
+    "price": 39.99,
+    "count": 10,
+    "rating": 4.5,
+    "size": [
+      32,
+      34,
+      36,
+      38,
+      40,
+      42
+    ],
+    "images": "/img/product-img/product-3.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pharetra tempor so dales. Phasellus sagittis auctor gravida. Integ er bibendum sodales arcu id te mpus. Ut consectetur lacus.\n\nApprox length 66cm/26\" (Based on a UK size 8 sample) Mixed fibres\n\nThe Model wears a UK size 8/ EU size 36/ US size 4 and her height is 5'8\""
+  },
+  {
+    "id": 4,
+    "title": "Long Yellow Dress",
+    "name": "Jeans midi cocktail dress",
+    "price": 39.99,
+    "count": 10,
+    "rating": 4.5,
+    "size": [
+      32,
+      34,
+      36,
+      38,
+      40,
+      42
+    ],
+    "images": "/img/product-img/product-4.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pharetra tempor so dales. Phasellus sagittis auctor gravida. Integ er bibendum sodales arcu id te mpus. Ut consectetur lacus.\n\nApprox length 66cm/26\" (Based on a UK size 8 sample) Mixed fibres\n\nThe Model wears a UK size 8/ EU size 36/ US size 4 and her height is 5'8\""
+  },
+  {
+    "id": 5,
+    "title": "Long Yellow Dress",
+    "name": "Jeans midi cocktail dress",
+    "price": 39.99,
+    "count": 10,
+    "rating": 4.5,
+    "size": [
+      32,
+      34,
+      36,
+      38,
+      40,
+      42
+    ],
+    "images": "/img/product-img/product-5.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pharetra tempor so dales. Phasellus sagittis auctor gravida. Integ er bibendum sodales arcu id te mpus. Ut consectetur lacus.\n\nApprox length 66cm/26\" (Based on a UK size 8 sample) Mixed fibres\n\nThe Model wears a UK size 8/ EU size 36/ US size 4 and her height is 5'8\""
+  },
+  {
+    "id": 6,
+    "title": "Long Yellow Dress",
+    "name": "Jeans midi cocktail dress",
+    "price": 39.99,
+    "count": 10,
+    "rating": 4.5,
+    "size": [
+      32,
+      34,
+      36,
+      38,
+      40,
+      42
+    ],
+    "images": "/img/product-img/product-6.jpg",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pharetra tempor so dales. Phasellus sagittis auctor gravida. Integ er bibendum sodales arcu id te mpus. Ut consectetur lacus.\n\nApprox length 66cm/26\" (Based on a UK size 8 sample) Mixed fibres\n\nThe Model wears a UK size 8/ EU size 36/ US size 4 and her height is 5'8\""
+  }
+]
